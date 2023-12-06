@@ -1,8 +1,8 @@
-[![MasterHead](https://tenor.com/view/code-banner-azerty-azerty44-gif-9078802756906777008)
+[![MasterHead](https://media.tenor.com/ff5jAX9D-bAAAAAC/code-banner.gif)
 <h1 align="center">Hello 👋, I'm Neil Ardrey Laza</h1>
 <h3 align="center">I'm a BSIT student at National University Baliwag right now, and I'm traveling through the fascinating and demanding field of information technology on a path of personal growth and exploration. Exploring the wide world of technology, from cybersecurity to software development, is my passion. I enjoy working in the ever-changing IT industry and am always learning new things and improving my abilities. I'm thrilled about the possibility of working on creative projects and interacting with others who share my passion for the exciting field of technology.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifer.com/en/3AyY">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notardrey&label=Profile%20views&color=0e75b6&style=flat" alt="notardrey" /> </p>
 
