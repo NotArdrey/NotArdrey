@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=300&color=00C8A4&vCenter=true&random=false&width=435&lines=Neil+Ardrey+Laza;BSIT+Student)](https://git.io/typing-svg)
 
-I'm a BSIT student at National University Baliwag right now, and I'm traveling through the fascinating and demanding field of information technology on a path of personal growth and exploration. Exploring the wide world of technology, from cybersecurity to software development, is my passion.
+I'm a BSIT student at National University Baliwag right now, and I'm on a journey of self-discovery and personal growth as I navigate the challenging and exciting world of information technology. My passion is learning about the vast field of technology, from software development to cybersecurity.
 
 ## Get to know me!
 - 💚 Member at [GDSC NU Baliwag](https://www.facebook.com/GDSCNUBaliwag)
