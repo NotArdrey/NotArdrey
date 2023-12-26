@@ -8,7 +8,7 @@ I'm a BSIT student at National University Baliwag right now, and I'm on a journe
 
 ## Get to know me!
 - 💚 Member at [GDSC NU Baliwag](https://www.facebook.com/GDSCNUBaliwag)
-- 💙 Chief Relations Officer at [AWS Cloud CLub NU Baliwag](https://www.facebook.com/AWSCloudClubNUB), 2023
+- 💙 Chief Relations Officer at [AWS Cloud Club NU Baliwag](https://www.facebook.com/AWSCloudClubNUB), 2023
 - 🌱 I’m currently learning **Java**
 - 📫 How to reach me **lazanap@students.nu-baliwag.edu.ph**
 ---
