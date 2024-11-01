@@ -4,24 +4,27 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=300&color=00C8A4&vCenter=true&random=false&width=435&lines=Neil+Ardrey+Laza;BSIT+Student)](https://git.io/typing-svg)
 
-I'm a BSIT student at National University Baliwag right now, and I'm on a journey of self-discovery and personal growth as I navigate the challenging and exciting world of information technology. My passion is learning about the vast field of technology, from software development to cybersecurity.
+I'm a **BSIT student** at National University Baliwag, currently on a journey of self-discovery and personal growth as I explore the exciting world of information technology. I have a passion for learning about web development.
 
-## Get to know me!
-- 💚 Member at [GDSC NU Baliwag](https://www.facebook.com/GDSCNUBaliwag)
-- 💙 Chief Relations Officer at [AWS Cloud Club NU Baliwag](https://www.facebook.com/AWSCloudClubNUB), 2023
-- 🌱 I’m currently learning **Java**
-- 📫 How to reach me **lazanap@students.nu-baliwag.edu.ph**
+## Get to Know Me
+- 💚 Mobile Dev Assistant Lead at [GDG-OC NU Baliwag](https://www.facebook.com/GDGCNUBaliwag)
+- 💙 Chief Relations Officer at [AWS Cloud Club NU Baliwag](https://www.facebook.com/AWSCloudClubNUB), 2023 - present
+- 🌱 Currently learning **JavaScript**
+- 📫 Reach me at **lazanap@students.nu-baliwag.edu.ph**
+
 ---
+
 ### Languages and Tools:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="8" />
   <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png" height="30" alt="VSCode logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
 </div>
-
