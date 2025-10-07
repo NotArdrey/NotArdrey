@@ -4,12 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=300&color=00C8A4&vCenter=true&random=false&width=435&lines=Neil+Ardrey+Laza;BSIT+Student)](https://git.io/typing-svg)
 
-I'm a **BSIT student** at National University Baliwag, currently on a journey of self-discovery and personal growth as I explore the exciting world of information technology. I have a passion for learning about web development.
+I'm a **BSIT student** at National University Baliwag, currently on a journey of self-discovery and personal growth as I explore the exciting world of information technology. I have a passion for learning about software development.
 
 ## Get to Know Me
-- 💚 Mobile Dev Assistant Lead at [GDG-OC NU Baliwag](https://www.facebook.com/GDGCNUBaliwag)
-- 💙 Chief Relations Officer at [AWS Cloud Club NU Baliwag](https://www.facebook.com/AWSCloudClubNUB), 2023 - present
-- 🌱 Currently learning **JavaScript**
+- 💚 Mobile Dev Lead at [GDG-OC NU Baliwag](https://www.facebook.com/GDGCNUBaliwag)
+- 💙 Former Chief Relations Officer at [AWS Cloud Club NU Baliwag](https://www.facebook.com/AWSCloudClubNUB), 2023 - 2025
+- 🌱 Currently learning **Mobile Development**
 - 📫 Reach me at **lazanap@students.nu-baliwag.edu.ph**
 
 ---
