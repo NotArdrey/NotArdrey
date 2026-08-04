@@ -1,36 +1,45 @@
-# Hello, I'm Neil Ardrey Laza 👋👨🏽‍💻
+# Neil Ardrey Laza
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Aiiiyuuuuuu/following) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Rdreyyyy?t=CCHMNGi6MxSFticBPzMiWg&s=09&fbclid=IwAR2FDPE5kOqioKYq0wekwaKhX0Z-gC5jjGlTgANwLlML1QZ2Co4CSZe8LCE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neil-ardrey-laza-8a3699291/) <img src="https://komarev.com/ghpvc/?username=notardrey&label=Profile%20views&color=0e75b6&style=flat" alt="notardrey" />
+BSIT student and AI-assisted full-stack/mobile developer focused on building usable products, testing generated implementations, debugging failures, and improving reliability from frontend to backend.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=300&color=00C8A4&vCenter=true&random=false&width=435&lines=Neil+Ardrey+Laza;BSIT+Student)](https://git.io/typing-svg)
+## Current focus
 
-I'm a **BSIT student** at National University Baliwag, currently on a journey of self-discovery and personal growth as I explore the exciting world of information technology. I have a passion for learning about software development.
+- AI product engineering with existing model APIs
+- Flutter and Expo/React Native applications
+- React web applications
+- Supabase Auth, Postgres, Storage, Realtime, Row Level Security, and Edge Functions
+- Structured AI output, deterministic safeguards, human review, and failure handling
+- Unit, integration, Playwright, and mobile end-to-end testing
 
-## Get to Know Me
-- 💚 Mobile Dev Lead at [GDG-OC NU Baliwag](https://www.facebook.com/GDGCNUBaliwag)
-- 💙 Former Chief Relations Officer at [AWS Cloud Club NU Baliwag](https://www.facebook.com/AWSCloudClubNUB), 2023 - 2025
-- 🌱 Currently learning **Mobile Development**
-- 📫 Reach me at **lazanap@students.nu-baliwag.edu.ph**
+## Featured projects
 
----
+### [CareNavigator PH](https://github.com/NotArdrey/CareNavigatorPH)
+Flutter and Supabase healthcare-navigation platform with structured AI symptom assessment, deterministic emergency escalation, medical-result analysis, role-protected clinical workflows, audit logs, and automated verification.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" />
+### [MusikaLokal](https://github.com/NotArdrey/MusikaLokal)
+Expo/React Native and Supabase platform for Filipino musicians, groups, producers, venues, and gig organizers, including social feeds, gig applications, media playback, realtime updates, AI-assisted applicant review, and cross-app testing.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
-  <img width="8" />
-  <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png" height="30" alt="VSCode logo" />
-  <img width="8" />
-</div>
+### [GigLink](https://github.com/NotArdrey/giglink-entrep)
+React service marketplace with booking and seller workflows, contextual AI assistance, model fallbacks, payment and recurring-billing rules, and Playwright end-to-end tests.
+
+### [KASUDLO](https://github.com/NotArdrey/kasudlo)
+Offline-first Flutter community-health data collection application with SQLite, Supabase synchronization, conflict handling, audit logs, structured AI analysis, and automated tests.
+
+### [Healthcare Navigation Platform](https://github.com/NotArdrey/titan-gel-project)
+Responsive web healthcare platform with AI-assisted triage, deterministic fallback guidance, telehealth workflows, rate limiting, audit/error logs, and model-latency metadata.
+
+### [Scraps to Snacks Web](https://github.com/NotArdrey/scraps-to-snacks-web)
+React and Supabase food-planning application with text/vision recipe generation, structured responses, error handling, and cost research support.
+
+## Technology
+
+`Flutter` · `Dart` · `Expo` · `React Native` · `React` · `TypeScript` · `JavaScript` · `Supabase` · `PostgreSQL` · `Groq` · `Playwright` · `Maestro` · `PHP` · `MySQL` · `GitHub Actions`
+
+## Development approach
+
+I use AI coding tools to accelerate implementation and test generation, then reproduce issues, inspect evidence, verify generated changes, run regression and edge-case tests, and maintain the integrated result. The goal is not simply generated code—it is a product whose behavior can be explained and verified.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/neil-ardrey-laza-8a3699291/)
+- Email: `lazanap@students.nu-baliwag.edu.ph`
