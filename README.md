@@ -13,7 +13,7 @@ BSIT student and AI-assisted full-stack/mobile developer focused on building usa
 
 ## Featured projects
 
-### [CareNavigator PH](https://github.com/NotArdrey/CareNavigatorPH)
+### [CareNavigator Mobile](https://github.com/NotArdrey/CareNavigator-mobile)
 Flutter and Supabase healthcare-navigation platform with structured AI symptom assessment, deterministic emergency escalation, medical-result analysis, role-protected clinical workflows, audit logs, and automated verification.
 
 ### [MusikaLokal](https://github.com/NotArdrey/MusikaLokal)
@@ -25,7 +25,7 @@ React service marketplace with booking and seller workflows, contextual AI assis
 ### [KASUDLO](https://github.com/NotArdrey/kasudlo)
 Offline-first Flutter community-health data collection application with SQLite, Supabase synchronization, conflict handling, audit logs, structured AI analysis, and automated tests.
 
-### [Healthcare Navigation Platform](https://github.com/NotArdrey/titan-gel-project)
+### [CareNavigator Web](https://github.com/NotArdrey/CareNavigator-web)
 Responsive web healthcare platform with AI-assisted triage, deterministic fallback guidance, telehealth workflows, rate limiting, audit/error logs, and model-latency metadata.
 
 ### [Scraps to Snacks Web](https://github.com/NotArdrey/scraps-to-snacks-web)
