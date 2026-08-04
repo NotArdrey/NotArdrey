@@ -41,5 +41,5 @@ I use AI coding tools to accelerate implementation and test generation, then rep
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/neil-ardrey-laza-8a3699291/)
+- [LinkedIn](https://ph.linkedin.com/in/neil-ardrey-laza-8a3699291)
 - Email: `lazanap@students.nu-baliwag.edu.ph`
